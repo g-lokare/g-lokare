@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @g-lokare
-- 👀 I’m interested in Programming and Physics
+- 👀 I’m interested in Programming and Engineering
 - 🌱 I’m currently learning Xojo and Java
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ---!>
